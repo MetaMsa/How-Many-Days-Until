@@ -1,0 +1,11 @@
+C:\Users\M\source\repos\How many days until\How many days until\bin\Debug\How many days until.exe.config
+C:\Users\M\source\repos\How many days until\How many days until\bin\Debug\How many days until.exe
+C:\Users\M\source\repos\How many days until\How many days until\bin\Debug\How many days until.pdb
+C:\Users\M\source\repos\How many days until\How many days until\obj\Debug\How many days until.csproj.AssemblyReference.cache
+C:\Users\M\source\repos\How many days until\How many days until\obj\Debug\How many days until.csproj.SuggestedBindingRedirects.cache
+C:\Users\M\source\repos\How many days until\How many days until\obj\Debug\How_many_days_until.Form1.resources
+C:\Users\M\source\repos\How many days until\How many days until\obj\Debug\How_many_days_until.Properties.Resources.resources
+C:\Users\M\source\repos\How many days until\How many days until\obj\Debug\How many days until.csproj.GenerateResource.cache
+C:\Users\M\source\repos\How many days until\How many days until\obj\Debug\How many days until.csproj.CoreCompileInputs.cache
+C:\Users\M\source\repos\How many days until\How many days until\obj\Debug\How many days until.exe
+C:\Users\M\source\repos\How many days until\How many days until\obj\Debug\How many days until.pdb
